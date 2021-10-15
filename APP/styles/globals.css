@@ -1,0 +1,9 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f0f1f3;
+}
+
+.main_container{
+  min-height: calc(100vh - 60px);
+  margin-top: 10px;
+}
